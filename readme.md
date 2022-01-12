@@ -1,7 +1,7 @@
 ## Hello, I'm teoria | Rodrigo Carneiro!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoteoria)
-![Mail](https://img.shields.io/badge/Mail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:teoria@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoteoria)
+[![Mail](https://img.shields.io/badge/Mail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:teoria@gmail.com)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPFWpDjqTzDEyCW-UyuJUIQ?style=social)
 
 ---
