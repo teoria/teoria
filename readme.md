@@ -16,6 +16,7 @@ I’m a lifelong learner and always keen to pick up new tools and technologies!
 ## ⚡ Skills:
 
 ![](https://img.shields.io/badge/SoftwareDev-informational?style=flat&logo=Dynamo&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/FullCycle-informational?style=flat&logo=bigdata&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/DataEng-informational?style=flat&logo=Dynamo&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/DataScience-informational?style=flat&logo=Dynamo&logoColor=white&color=4169E1) 
 ### 💻 Languages:
