@@ -9,7 +9,9 @@
 ## 👷  About me
 
 I’m a lifelong learner and always keen to pick up new tools and technologies!
-[![YouTube Channel](https://www.youtube.com/channel/UCPFWpDjqTzDEyCW-UyuJUIQ)
+
+[YouTube Channel](https://www.youtube.com/channel/UCPFWpDjqTzDEyCW-UyuJUIQ)
+
 ---
 ## ⚡ Skills:
 
