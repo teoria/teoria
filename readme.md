@@ -2,12 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoteoria)
 [![Mail](https://img.shields.io/badge/Mail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:teoria@gmail.com)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPFWpDjqTzDEyCW-UyuJUIQ?style=social)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPFWpDjqTzDEyCW-UyuJUIQ?style=social)
+
 ---
 
 ## 👷  About me
 
 I’m a lifelong learner and always keen to pick up new tools and technologies!
+[![YouTube Channel](https://www.youtube.com/channel/UCPFWpDjqTzDEyCW-UyuJUIQ)
 ---
 ## ⚡ Skills:
 
