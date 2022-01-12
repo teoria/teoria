@@ -6,6 +6,7 @@
 ---
 
 ## 👷  About me
+
 I’m a lifelong learner and always keen to pick up new tools and technologies!
 ---
 ## ⚡ Skills:
