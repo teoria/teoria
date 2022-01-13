@@ -9,8 +9,8 @@
 
 I’m a lifelong learner and always keen to pick up new tools and technologies!
 
-[YouTube Channel](https://www.youtube.com/channel/UCPFWpDjqTzDEyCW-UyuJUIQ) 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/rodrigoteoria?style=social)
+[YouTube Channel](https://www.youtube.com/channel/rodrigoteoria) 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPFWpDjqTzDEyCW-UyuJUIQ?style=social)
 
 ---
 ## ⚡ Skills:
