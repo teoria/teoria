@@ -26,7 +26,7 @@ I’m a lifelong learner and always keen to pick up new tools and technologies!
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4169E1)
-![](https://img.shields.io/badge/AS-informational?style=flat&logo=Adobe&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/ActionScript-informational?style=flat&logo=Adobe&logoColor=white&color=4169E1)
 
 ### Databases:
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
