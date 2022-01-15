@@ -44,7 +44,6 @@ I’m a lifelong learner and always keen to pick up new tools and technologies!
 ![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=apache-Kafka&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/NiFi-informational?style=flat&logo=Nifi&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/Presto-informational?style=flat&logo=Presto&logoColor=white&color=363636)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/dbt-informational?style=flat&logo=dbt&logoColor=white&color=FF694B)
 ![](https://img.shields.io/badge/Amundsen-informational?style=flat&logo=Amundsen&logoColor=white&color=FF694B)
 ![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=FF4B4B)
@@ -54,6 +53,7 @@ I’m a lifelong learner and always keen to pick up new tools and technologies!
 ![](https://img.shields.io/badge/Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
 ![](https://img.shields.io/badge/Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 ## 📖 Currently learning more about...
 * English  
